@@ -1,1 +1,2 @@
 This is file1 from Bob
+Modify file1 from IntelliJ
